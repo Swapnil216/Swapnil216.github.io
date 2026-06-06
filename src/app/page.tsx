@@ -27,7 +27,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-5xl font-bold tracking-tight mb-4">
-              Greetings visitor, <br /> <span className="text-gradient">Welcome to a showcase of my work</span>
+              Greetings visitor, <br /> <span className="text-gradient">Welcome to a glimpse of my journey</span>
             </h1>
             <h2 className="text-2xl font-semibold text-gray-800 mb-6 leading-tight">
               Building Innovative Search & Discovery Solutions
