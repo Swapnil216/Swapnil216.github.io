@@ -467,6 +467,15 @@ export default function Home() {
                <li className="flex items-start bg-white p-4 rounded-xl border border-gray-100 flex-col shadow-sm">
                  <div className="flex items-center">
                    <i className="fas fa-check-circle text-green-500 mr-3"></i>
+                   <span className="font-semibold text-gray-800">McKinsey.org Forward Program</span>
+                 </div>
+                 <a href="https://www.credly.com/badges/17a96889-ba3a-4420-9fd3-e5190ecd69a0/public_url" target="_blank" rel="noopener noreferrer" className="text-xs text-blue-600 mt-2 ml-7 bg-blue-50 px-2 py-1 rounded-md border border-blue-200 self-start hover:underline">
+                   View Credential
+                 </a>
+               </li>
+               <li className="flex items-start bg-white p-4 rounded-xl border border-gray-100 flex-col shadow-sm">
+                 <div className="flex items-center">
+                   <i className="fas fa-check-circle text-green-500 mr-3"></i>
                    <span className="font-semibold text-gray-800">Tweet Emotion Recognition with TensorFlow</span>
                  </div>
                  <div className="text-xs text-gray-500 mt-2 ml-7 bg-gray-50 px-2 py-1 rounded-md border border-gray-200 self-start">ID: C29W2RJM5583</div>
